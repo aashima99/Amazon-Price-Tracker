@@ -1,1 +1,2 @@
 # Amazon-Price-Tracker
+Amazon product price tracker using Python. Python is a multi-purpose language and widely used for scripting.The goal of the project is to to automate a daily life task. If we want to track any Amazon product price and grab the deal when the price changes below our defined price. So basically this application  using concepts of python regularly monitors the fluctuations of the prices of product on Amazon and it sends a customized notification email to tell the user if the price falls down below a specified price.   
